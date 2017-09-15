@@ -38,6 +38,9 @@
       uses-permission android:name="android.permission.INTERNET" 
       
 *      效果图如下：
-       ![](https://github.com/lijizhi/webviewtest/blob/master/screenshots/S70915-075343.jpg?raw=true)
+     
+     
+     
+     ![](https://github.com/lijizhi/webviewtest/blob/master/screenshots/S70915-075343.jpg?raw=true)
 
   

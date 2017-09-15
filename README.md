@@ -36,5 +36,8 @@
 *      最后一步就是添加需要的权限，修改AndroidManifest.xml文件，并加入如下权限声明，如下所示：
 
       uses-permission android:name="android.permission.INTERNET" 
+      
+*      效果图如下：
+       ![](https://github.com/lijizhi/webviewtest/blob/master/screenshots/S70915-075343.jpg?raw=true)
 
   
